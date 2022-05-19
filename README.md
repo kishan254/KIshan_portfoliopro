@@ -5,7 +5,7 @@ This is my portfolio which I created using react.js
 
 ## Description
 
-This is an app I created using the react.js framework in which I have added my resume, and my contact details for potential clients to reach reach me
+This is an app I created using the react.js framework in which I have added my resume, and my contact details for potential clients to reach me
 
 
 - VIDEO OF WALKTHROUGH is below
