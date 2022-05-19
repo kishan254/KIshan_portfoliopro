@@ -8,8 +8,9 @@ This is my portfolio which I created using react.js
 This is an app I created using the react.js framework in which I have added my resume, and my contact details for potential clients to reach reach me
 
 
-VIDEO OF WALKTHROUGH is below
-[Video]()
+- VIDEO OF WALKTHROUGH is below
+
+![Website](images/website.gif)
 
 ## Tabel of Contents
 
@@ -58,11 +59,10 @@ To run tests, please use the following command in the root terminal:
 
 ## Screenshots
 
-![PortfolioContainer](images/portfolioContainer.png)
-![appJS](images/appjs.png)
-![Profile](images/profile.png)
-![ResumeGIF](images/resumeJS.gif)
-![contactRoute](images/contactRoute.png)
+- npm run dev
+
+![npm](images/npm.png)
+
 
 ## Technology
 
