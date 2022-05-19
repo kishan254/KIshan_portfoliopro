@@ -58,10 +58,11 @@ To run tests, please use the following command in the root terminal:
 
 ## Screenshots
 
-![image_one](images/npm_test_one.png)
-![image_two](images/node_test_two.png)
-![image_three](images/html_created_three.png)
-![image_four](images/html_live_four.png)
+![PortfolioContainer](images/portfolioContainer.png)
+![appJS](images/appjs.png)
+![Profile](images/profile.png)
+![ResumeGIF](images/resumeJS.gif)
+![contactRoute](images/contactRoute.png)
 
 ## Technology
 
@@ -77,21 +78,25 @@ To run tests, please use the following command in the root terminal:
 
 These are the screenshots of the code 
 
-Get Employee Function
+- Portfolio Container
 
-![Code-Snippet] (images/getEmployee_function_five.png)
+![PortfolioContainer](images/portfolioContainer.png)
 
-Generate the page function
+- App.JS
 
-![Code-Snippet](images/create_page_function_six.png)
+![appJS](images/appjs.png)
 
-Card Selector function 
+- Profile.JS
 
-![Code-Snippet](images/allCard_create_function_seven.png)
+![Profile](images/profile.png)
 
-Card Generator 
+- Resume.js
 
-![Code-Snippet](images/card_generator_eight.png)
+![ResumeGIF](images/resumeJS.gif)
+
+- ContactRoute
+
+![contactRoute](images/contactRoute.png)
 
 ## Questions
 
