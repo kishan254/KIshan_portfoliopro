@@ -33,6 +33,10 @@ In order to run this application, you will need to install the following
 ### Root terminal
 - npm install
 
+### TroubleShoot
+
+in client -> npm audit fix then cd .. to go back to the root terminal of the project
+
 ## Usage
 
 In order to use this app, you will need to understand the following;
